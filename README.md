@@ -1,2 +1,3 @@
 # my-3rd-year-project
-This is my stuff ....
+
+Here are my R files etc etc . I *love* OPEN SCIENCE!!!!
